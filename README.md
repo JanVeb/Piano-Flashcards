@@ -1,7 +1,5 @@
-<span style={{font-size: '75'}}> 
+# Piano-Flashcards: Privacy policy
 
-Piano-Flashcards: Privacy policy
-  </span>
 
 Welcome to the Piano-Flashcards app for Android!
 
