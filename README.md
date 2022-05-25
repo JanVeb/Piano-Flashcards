@@ -12,6 +12,5 @@ If you find any security vulnerability that has been inadvertently caused by thi
 Yours sincerely,
 
 Jani Veble
-New Taipei City
 
 learning.indie@gmail.com
